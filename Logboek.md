@@ -13,4 +13,19 @@
 
 ## Screen Jira
 
-![Screenshot](img/weekX.png)
+![Screenshot](img/week4.png)
+
+## Gerealiseerd
+
+-
+-
+-
+-
+
+
+## To do
+
+-
+-
+-
+-

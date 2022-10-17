@@ -13,7 +13,7 @@
 <tr>
 <td><b>AWS</b></td>
 <td>widest range of tools supporting AI, IoT, and serverless technologies.</td>
-<td>high</td>
+<td>$72.76/month</td>
 <td>
 • Extensive, mature offerings<br>
 • Support for large organizations<br>
@@ -27,7 +27,8 @@
 <tr>
 <td><b> Azure</b></td>
 <td> mid-position </td>
-<td>mid</td>
+<td>	
+$137.9700/month</td>
 <td>
 • Integration with Microsoft tools and software<br>
 • Broad feature set<br>
@@ -39,7 +40,7 @@
 <tr>
 <td><b>GPC</b></td>
 <td>many of its services are still in the beta phase</td>
-<td>low</td>
+<td>$102.73/month</td>
 <td>• Designed for cloud-native businesses<br>
 • Commitment to open source and portability<br>
 • Deep discounts and flexible contracts<br>
