@@ -5,7 +5,7 @@
 | Student          | Geschat | Gerealiseerd |
 | :--------------- | ------: | -----------: |
 | Victor Vanhooren |  4 uur       |   4 uur           |
-| Lander De Ghein  |         |              |
+| Lander De Ghein  |      4 uur   |        4 uur      |
 | Matthias Pieters |         |              |
 | Jarne Segers     |         |              |
 | **totaal**       |         |              |
@@ -29,3 +29,18 @@
 -
 -
 -
+
+# Lander
+
+## Gerealiseerd
+
+- cloud shortlist
+- jira deeltje
+- helpen bij .net
+- github repos in orde gebracht
+
+
+## To do
+
+- user story map 
+- locale omgeving opzetten

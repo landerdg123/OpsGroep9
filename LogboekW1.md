@@ -5,10 +5,10 @@
 | Student          | Geschat | Gerealiseerd |
 | :--------------- | ------: | -----------: |
 | Victor Vanhooren |   2 uur      |   2 uur           |
-| Lander De Ghein  |         |              |
-| Matthias Pieters |         |              |
-| Jarne Segers     |         |              |
-| **totaal**       |         |              |
+| Lander De Ghein  |    2 uur     |     2 uur         |
+| Matthias Pieters |    2 uur     |     2 uur         |
+| Jarne Segers     |    2 uur     |     2 uur         |
+| **totaal**       |        |              |
 
 
 ## Screen Jira
@@ -30,3 +30,19 @@
 - vakliteratuur doornemen
 -
 -
+
+# Lander
+
+## Gerealiseerd
+
+- kickoff vergadering bijgewoond
+- groepjes samengesteld
+- instructies doorgelezen
+
+
+
+## To do
+
+- afspraken maken met devgroep
+- communicatie leggen met devgroep
+- vakliteratuur doornemen

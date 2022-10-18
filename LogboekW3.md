@@ -5,7 +5,7 @@
 | Student          | Geschat | Gerealiseerd |
 | :--------------- | ------: | -----------: |
 | Victor Vanhooren |  4 uur       |       4 uur       |
-| Lander De Ghein  |         |              |
+| Lander De Ghein  |   7 uur      |      4 uur        |
 | Matthias Pieters |         |              |
 | Jarne Segers     |         |              |
 | **totaal**       |         |              |
@@ -28,4 +28,18 @@
 - architectuur plan opstellen omgeving
 - opstellen user story maps
 -
+
+# Lander
+
+## Gerealiseerd
+
+- aanpassingen cloud shortlist
+- helpen bij .net + overleggen met lectors
 -
+
+
+## To do
+
+- architectuur plan 
+- user story map maken
+- overelggen met devs
