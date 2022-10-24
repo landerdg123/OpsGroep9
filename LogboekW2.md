@@ -4,12 +4,11 @@
 
 | Student          | Geschat | Gerealiseerd |
 | :--------------- | ------: | -----------: |
-| Victor Vanhooren |  4 uur       |   4 uur           |
-| Lander De Ghein  |      4 uur   |        4 uur      |
+| Victor Vanhooren |   4 uur |        4 uur |
+| Lander De Ghein  |   4 uur |        4 uur |
 | Matthias Pieters |         |              |
-| Jarne Segers     |         |              |
+| Jarne Segers     |   4 uur |        4 uur |
 | **totaal**       |         |              |
-
 
 ## Screen Jira
 
@@ -18,10 +17,9 @@
 ## Gerealiseerd
 
 - opzoek werk in verband met het maken van een docker container voor ASP.NET webapp
-- 
 -
 -
-
+-
 
 ## To do
 
@@ -39,8 +37,18 @@
 - helpen bij .net
 - github repos in orde gebracht
 
+## To do
+
+- user story map
+- locale omgeving opzetten
+
+# Jarne
+
+## Gerealiseerd
+
+- Jira enviroment opzetten
+- opzoekwerk naar cloud providers
 
 ## To do
 
-- user story map 
-- locale omgeving opzetten
+- opzoekwerk in verband met Jenkins, Ansible en ASP.NET

@@ -1,15 +1,14 @@
-# Logboek Week 2:
+# Logboek Week 3:
 
 ## Tijdbesteding
 
 | Student          | Geschat | Gerealiseerd |
 | :--------------- | ------: | -----------: |
-| Victor Vanhooren |  4 uur       |       4 uur       |
-| Lander De Ghein  |   7 uur      |      4 uur        |
+| Victor Vanhooren |   4 uur |        4 uur |
+| Lander De Ghein  |   7 uur |        4 uur |
 | Matthias Pieters |         |              |
-| Jarne Segers     |         |              |
+| Jarne Segers     |   4 uur |        4 uur |
 | **totaal**       |         |              |
-
 
 ## Screen Jira
 
@@ -21,7 +20,6 @@
 - uitzoeken hoe dockerfiles en dockercompose werken
 -
 -
-
 
 ## To do
 
@@ -37,9 +35,21 @@
 - helpen bij .net + overleggen met lectors
 -
 
+## To do
+
+- architectuur plan
+- user story map maken
+- overelggen met devs
+
+# Jarne
+
+## Gerealiseerd
+
+- uitvoeren van een docker container in een virtuele machine en proberen te automatiseren
+- uitzoeken hoe dockerfiles en dockercompose werken
 
 ## To do
 
-- architectuur plan 
-- user story map maken
-- overelggen met devs
+- architectuur plan opstellen omgeving
+- opstellen user story maps
+- starten met het local test environment
