@@ -6,7 +6,7 @@
 | :--------------- | ------: | -----------: |
 | Victor Vanhooren |   4 uur |        4 uur |
 | Lander De Ghein  |   4 uur |        4 uur |
-| Matthias Pieters |         |              |
+| Matthias Pieters |   4 uur |        4 uur |
 | Jarne Segers     |   4 uur |        4 uur |
 | **totaal**       |         |              |
 
@@ -17,16 +17,10 @@
 ## Gerealiseerd
 
 - opzoek werk in verband met het maken van een docker container voor ASP.NET webapp
--
--
--
 
 ## To do
 
 - opzoekwerk in verband met Jenkins, Ansible en ASP.NET
--
--
--
 
 # Lander
 
@@ -52,3 +46,14 @@
 ## To do
 
 - opzoekwerk in verband met Jenkins, Ansible en ASP.NET
+
+# Matthias
+
+## Gerealiseerd
+
+- opzoekwerk hoe ASP.NET applicatie runnen met docker
+
+## To do
+
+- ASP.NET verder opzoeken
+- opzoekwerk ivm jenkins, ansible
