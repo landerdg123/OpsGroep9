@@ -1,17 +1,10 @@
 # Logboek Week 4:
 
-## Tijdbesteding
-
-| Student          | Geschat | Gerealiseerd |
-| :--------------- | ------: | -----------: |
-| Victor Vanhooren |   8 uur |        6 uur |
-| Lander De Ghein  |   7 uur |        7 uur |
-| Matthias Pieters |   5 uur |        5 uur |
-| Jarne Segers     |   4 uur |        6 uur |
-| **totaal**       |         |              |
 
 ## Screen Jira
+![Screenshot](img/week4.png)
 
+# Victor
 ## Gerealiseerd
 
 - Beginnen met opbouwen van locale testomgeving

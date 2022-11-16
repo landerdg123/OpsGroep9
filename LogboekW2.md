@@ -1,16 +1,8 @@
 # Logboek Week 2:
 
-## Tijdbesteding
-
-| Student          | Geschat | Gerealiseerd |
-| :--------------- | ------: | -----------: |
-| Victor Vanhooren |   4 uur |        4 uur |
-| Lander De Ghein  |   4 uur |        4 uur |
-| Matthias Pieters |   4 uur |        4 uur |
-| Jarne Segers     |   4 uur |        4 uur |
-| **totaal**       |         |              |
 
 ## Screen Jira
+![Screenshot](img/week2.png)
 
 # Victor
 

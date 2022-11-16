@@ -1,18 +1,8 @@
 # Logboek Week 1:
 
-## Tijdbesteding
-
-| Student          | Geschat | Gerealiseerd |
-| :--------------- | ------: | -----------: |
-| Victor Vanhooren |   2 uur      |   2 uur           |
-| Lander De Ghein  |    2 uur     |     2 uur         |
-| Matthias Pieters |    2 uur     |     2 uur         |
-| Jarne Segers     |    2 uur     |     2 uur         |
-| **totaal**       |        |              |
-
 
 ## Screen Jira
-
+![Screenshot](img/week1.png)
 # Victor
 
 ## Gerealiseerd

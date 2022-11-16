@@ -1,17 +1,8 @@
 # Logboek Week 3:
 
-## Tijdbesteding
-
-| Student          | Geschat | Gerealiseerd |
-| :--------------- | ------: | -----------: |
-| Victor Vanhooren |   4 uur |        4 uur |
-| Lander De Ghein  |   7 uur |        4 uur |
-| Matthias Pieters |   5 uur |        4 uur |
-| Jarne Segers     |   4 uur |        4 uur |
-| **totaal**       |         |              |
 
 ## Screen Jira
-
+![Screenshot](img/week3.png)
 # Victor
 
 ## Gerealiseerd
