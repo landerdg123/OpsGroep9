@@ -19,11 +19,11 @@
 
 ## Gerealiseerd
 
-- 
+- opzoekwerk pipelines .net maken
 
 ## To do
 
-- 
+- pipeline .net afwerken
 
 # Lander
 
@@ -39,8 +39,8 @@
 
 ## Gerealiseerd
 
-- 
+- opzoekwerk pipelines .net maken
 
 ## To do
 
-- 
+- pipeline .net afwerken
