@@ -8,8 +8,6 @@
 ## Gerealiseerd
 
 - buildserver opzetten 
--
--
 
 ## To do
 
@@ -19,11 +17,11 @@
 
 ## Gerealiseerd
 
-- 
+- buildserver opzetten
 
 ## To do
 
--
+- pipelines maken
 
 # Lander
 
@@ -40,8 +38,9 @@
 
 ## Gerealiseerd
 
-- 
+- opzetten buildserver
+- beginnen opzoekwerk pipelines maken
 
 ## To do
 
-- 
+- pipelines werken
