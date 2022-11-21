@@ -18,10 +18,11 @@
 
 ## Gerealiseerd
 
-- 
+- opbouwen lokale testomgevingen
+- beginnen opzoeken buildserver
 ## To do
 
-- 
+- buildserver maken
 
 # Lander
 
@@ -38,7 +39,8 @@
 
 ## Gerealiseerd
 
-- 
+- opzoekwerk cloud-omgeving
+- beginnen aan buildserver
 ## To do
 
-- 
+- buildserver verder aan werken
